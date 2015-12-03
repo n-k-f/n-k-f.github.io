@@ -1,0 +1,19 @@
+h1 {
+  color: #6600FF;
+  font-family: sans-serif;
+  font-size: 100px;
+}
+
+.snowflake {
+  font-style: italic;
+  font-weight: bold;
+}
+
+#noah {
+  padding: 30px;
+  margin: 70px;
+  border: 4px red solid;
+  background-color: crimson;
+  font-size: 20px;
+  cursor: crosshair;
+}
